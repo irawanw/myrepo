@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="16605" started-at="2017-03-24T14:40:08Z" finished-at="2017-03-24T14:40:25Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="16605" started-at="2017-03-24T14:40:08Z" finished-at="2017-03-24T14:40:25Z">
+      <class name="com.irawan.wijanarko.test.SignUpTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.irawan.wijanarko.test.SignUpTest@120ebad]" name="setUp" is-config="true" duration-ms="8334" started-at="2017-03-24T21:40:08Z" finished-at="2017-03-24T21:40:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testSignUp()[pri:0, instance:com.irawan.wijanarko.test.SignUpTest@120ebad]" name="testSignUp" duration-ms="6663" started-at="2017-03-24T21:40:17Z" finished-at="2017-03-24T21:40:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSignUp -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.irawan.wijanarko.test.SignUpTest@120ebad]" name="tearDown" is-config="true" duration-ms="1531" started-at="2017-03-24T21:40:23Z" finished-at="2017-03-24T21:40:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.irawan.wijanarko.test.SignUpTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
